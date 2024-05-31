@@ -1,4 +1,4 @@
-import fs from "node:fs";
+import fs from "fs";
 const url = 'https://kyc.biometric.kz/api/v1/backend/liveness/short/';
 const apiKey = 'W-EFrw51p8ftC2wAbCvGISnocqI_LR60Qntm3ilkMC2XCic';
 const video = document.getElementById("videoElement")
